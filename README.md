@@ -1,6 +1,6 @@
-# Task Manager
+# Test task
 
-A simple Task Manager app with Laravel 12 (backend) ans Sail.
+A simple Test task app with Laravel 12 (backend) ans Sail.
 
 ## Prerequisites
 - Docker Desktop
