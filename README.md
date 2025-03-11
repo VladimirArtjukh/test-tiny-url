@@ -1,6 +1,6 @@
 # Test task
 
-A simple Test task app with Laravel 12 (backend) ans Sail.
+A simple Test task app with Laravel 12 (backend) and Sail.
 
 ## Prerequisites
 - Docker Desktop
